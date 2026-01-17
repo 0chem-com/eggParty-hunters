@@ -31,6 +31,10 @@ publish 是编译后的，html就可以使用
 
 ![小程序二维码](code/public/wechat1.jpg)
 
+QQ 群
+
+![小程序二维码](code/public/qq.jpg)
+
 地图开源网址（源代码）：
 
 https://github.com/0chem-com/eggParty-hunters
