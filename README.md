@@ -31,7 +31,7 @@ publish 是编译后的，html就可以使用
 
 ![小程序二维码](code/public/wechat1.jpg)
 
-QQ 群
+QQ 群 [进群](https://qm.qq.com/q/182vGHsrq4)
 
 ![QQ群二维码](code/public/qq.jpg)
 
